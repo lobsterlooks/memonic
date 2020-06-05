@@ -1,18 +1,16 @@
 # Build and Release Folders
 bin-debug/
 bin-release/
-[Oo]bj/
+[Oo]bj/trampoline
 [Bb]in/
-
+       Line memonic
 # Other files and folders
-.settings/
+.settings/creations folders
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# Executables Line 1 Line 2
+*.swf memonic
+*.air inpfrenedty
+*.ipa emerengecy
+*.apk Line caller
+Open
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
